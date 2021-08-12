@@ -1,6 +1,7 @@
 ## Olá!!! Eu me chamo Gustavo Félix 
 
-- 🔭 Atualmente estudando para ser um Dev Fullstack😁😁
+- 🔭 Atualmente estudando para ser um Dev Front-end😁😁
+- 🔭 Currently studying to be a Dev Front-end😁😁
 
 <div>
   <a href="https://github.com/Gustavo-Felix">
