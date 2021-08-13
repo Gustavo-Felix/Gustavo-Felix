@@ -1,4 +1,5 @@
 ## Olá!!! Eu me chamo Gustavo Félix 
+## Hello !!! My name is Gustavo Félix
 
 - 🔭 Atualmente estudando para ser um Dev Front-end😁😁
 - 🔭 Currently studying to be a Dev Front-end😁😁
