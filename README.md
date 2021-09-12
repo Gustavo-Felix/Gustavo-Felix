@@ -1,8 +1,8 @@
 ## Olá!!! Eu me chamo Gustavo Félix 
 ## Hello !!! My name is Gustavo Félix
 
-##- 🔭 Atualmente estudando para ser um Dev Front-end😁😁
-##- 🔭 Currently studying to be a Dev Front-end😁😁
+## - 🔭 Atualmente estudando para ser um Dev Front-end😁😁
+## - 🔭 Currently studying to be a Dev Front-end😁😁
 
 <div>
   <a href="https://github.com/Gustavo-Felix">
