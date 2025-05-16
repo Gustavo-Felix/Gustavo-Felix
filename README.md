@@ -12,7 +12,7 @@
 ## 🚀 Sobre Mim
 - 🌱 Atualmente, estou aprimorando minhas habilidades para melhorar meu conhecimento.
 - 📝 Estudo em Sorocaba, na ETEC Fernando Prestes, no Campus Fatec, com Curso Técnico em Desenvolvimento de Sistemas Integrado ao Ensino Médio.
-- 💡 Tenho interesse um interesse imenso por conhecimento relacionado com a tecnologia.
+- 💡 Tenho um interesse imenso por conhecimento relacionado com a tecnologia.
 
 
 ## 🛠️ Tecnologias e Ferramentas
